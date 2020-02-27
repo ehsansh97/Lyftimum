@@ -6,7 +6,7 @@ class DataHandler():
         pass
 
     def read_data(self):
-        data = pd.read_csv('temp_database.csv')
+        data = pd.read_csv('temp_database.csv', index_col=False)
         return data
 
     def add_event(self, event):
