@@ -1,2 +1,3 @@
-,user_id,origin_latitude,origin_longitude,destination_latitude,destination_longitude,price,hour,minute,weekday,time
-0,14236863,35.726694,51.299994,35.724058,51.29901,"{'TAPSI': 5500, 'SNAPP': 4500}",23,0,4,2020-02-26 23:00:41.096315
+,Unnamed: 0,user_id,origin_latitude,origin_longitude,destination_latitude,destination_longitude,price,hour,minute,weekday,time
+0,0.0,14236863,35.726694,51.299994,35.724058,51.299009999999996,"{'TAPSI': 5500, 'SNAPP': 4500}",23,0,4,2020-02-26 23:00:41.096315
+1,,14236863,35.726701,51.30009,35.732515,51.303573,"{'TAPSI': 9500, 'SNAPP': 8000}",23,2,4,2020-02-26 23:02:20.870746
