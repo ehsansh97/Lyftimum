@@ -22,4 +22,4 @@ class DataHandler():
         'weekday' : (event.time.weekday()+2)%7,
         'time' : event.time}
         new_data = df.append(new_event, ignore_index = True)
-        new_data.to_csv('temp_database.csv')
+        new_data.to_csv('temp_database.csv', index=False)
